@@ -1,0 +1,25 @@
+{
+    "author": "mumu",
+    "dependencies": {
+        "yeoman-generator": "^1.1.1"
+    },
+    "description": "web app scaffold",
+    "files": [
+        "generators/app"
+    ],
+    "keywords": [
+        "yeoman-generator"
+    ],
+    "license": "ISC",
+    "main": "index.js",
+    "name": "generator-web-app",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/doudounannan/generator-web-app.git"
+    },
+    "homepage": "https://github.com/doudounannan/generator-web-app",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "version": "1.0.0"
+}
