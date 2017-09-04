@@ -1,0 +1,22 @@
+{
+    "name": "<%= name %>",
+    "version": "1.0.0",
+    "author": "<%= userName %>",
+    "main": "src/js/index.js",
+    "homepage": "",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "keywords": [
+        "<%= name %>"
+    ],
+    "description": "<%= name %>",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+
+    },
+    "license": "ISC"
+}
